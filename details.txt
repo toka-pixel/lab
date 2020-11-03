@@ -3,17 +3,35 @@
  git add -all
  git commit -m "message"
  git branch -M main
- git remote add origin https://github.com/toka-pixel/lab2-git.git
+ git remote add origin https://github.com/toka-pixel/lab.git
  git branch dev
  git branch test
  touch file1
  touch file2
  git add --all
- git commit -m "create files"
+ git commit -m "m"
  git push origin dev
  git push origin test
  git checkout main
  git merge dev
+ git add --all
+ git commit -m "m"
+ git push origin main
+ git branch -d test
+ git push origin :test
+
+ /////////////////////////////////
+ /////////////lab2///////////
+ git tag -a v1.4 -m "my verision"
+ git push origin v1.4
+ git tag
+ git tag -d v1.4
+ git push origin --delete v1.4
+ 
+
+
+
+ 
  
  
  
