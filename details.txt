@@ -1,0 +1,19 @@
+//////////lab1/////////////
+ git init
+ git add -all
+ git commit -m "message"
+ git branch -M main
+ git remote add origin https://github.com/toka-pixel/lab2-git.git
+ git branch dev
+ git branch test
+ touch file1
+ touch file2
+ git add --all
+ git commit -m "create files"
+ git push origin dev
+ git push origin test
+ git checkout main
+ git merge dev
+ 
+ 
+ 
