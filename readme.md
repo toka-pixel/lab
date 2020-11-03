@@ -36,4 +36,4 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://www.google.com/search?q=images&sxsrf=ALeKk00H8Jmcgp_W2LeaySRapni4tBiTuQ:1604410947408&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjL5N_EwObsAhXsTxUIHdqKAX0Q_AUoAXoECA4QAw&biw=1242&bih=516#imgrc=pTd2OIa33-6LVM)
 
-![img](https://github.com/toka-pixel/lab.git/imgs/download.jpg)
+![img](https://github.com/toka-pixel/lab/blob/main/imgs/download.jpg)
